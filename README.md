@@ -5,3 +5,5 @@ Install required dependencies from environment.yml, e.g.:
 ```conda env create -file environment.yml```
 
 The DynamicVisualization class expects gaze data as lists of tuples of form (t, x, y) where t is the time in ms, and x and y are the screen coordinates of the data point.
+
+Video used in demo from https://www.pexels.com/video/close-up-footage-of-cat-10002418/
